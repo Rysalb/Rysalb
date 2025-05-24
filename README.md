@@ -21,7 +21,7 @@ Hello! I'm Rysa Laksana, a tech enthusiast with expertise in various technologie
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rysalb/Rysalb/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rysalb/Rysalb/output/pacman-contribution-graph.svg">
 </picture>
-###
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rysalb&icon=5&color=0)](https://visitcount.itsvg.in)
