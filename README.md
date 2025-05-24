@@ -15,8 +15,13 @@ Hello! I'm Rysa Laksana, a tech enthusiast with expertise in various technologie
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rysalb&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rysalb/Rysalb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rysalb/Rysalb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rysalb/Rysalb/output/pacman-contribution-graph.svg">
+</picture>
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rysalb&icon=5&color=0)](https://visitcount.itsvg.in)
